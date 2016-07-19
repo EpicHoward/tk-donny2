@@ -1,0 +1,132 @@
+/*
+ Theme Name:   tk donny
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     _tk-master
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #ebebeb;
+    background-color: #2b3e50;
+    
+}
+
+a.navbar-brand {
+    color: #ebebeb;
+}
+
+
+nav.site-navigation {
+color:  #df691a ;
+background-color:#2b3e50 ;
+border-color: #df691a; 
+
+}
+
+
+
+
+.navbar-default {
+    background-color: #df691a;
+        border-color: #df691a;
+
+}
+
+
+}
+.main-content{
+    background-color: #2b3650;
+}
+
+
+.navbar-nav>.active>a{
+    color: #ebebeb;
+    background-color: #df691a;
+}
+
+
+
+
+
+.navbar-default .navbar-nav>.active>a
+{         
+
+    color: #ebebeb;
+    background-color: #df691a;
+
+
+
+
+       }
+
+.navbar-default .navbar-brand {
+    color: #ebebeb;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    color: #ebebeb;
+}
+
+
+
+a {
+   
+    color: #df691a;
+   
+ }
+
+
+ .jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #2b3e50 ;
+}
+
+
+.btn-primary {
+    color: #ebebeb;
+    background-color: #df691a;
+    border-color: #df691a;
+}
+
+.simple-social-icons ul li a, {
+    background-color: #df691a !important;
+    border-radius: 3px;
+    color: #ebebeb !important;
+    border: 0px #df691a solid !important;
+    font-size: 18px;
+    padding: 9px;
+
+}
+
+
+
+.navbar-default .navbar-toggle:hover {
+    background-color: #af561b;
+}
+
+
+
+.navbar-default .navbar-toggle {
+    border-color: #df691a;
+}
+
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ebebeb;
+}
+                           
